@@ -1,20 +1,25 @@
 
----
+# 🎮 Rock Paper Scissors Game
 
-## 🧩 How to Play
-1. Click on **Rock**, **Paper**, or **Scissors**.  
-2. The computer will choose its move automatically.  
-3. The result and scores will update instantly!  
+A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
+Challenge the computer, make your move, and see who wins!
 
 ---
 
-## 💻 How to Run Locally
-```bash
-# Clone this repository
-git clone https://github.com/your-username/Rock-Paper-Scissors-Game.git
+## 🚀 Features
+- 🪨 Rock, 📄 Paper, ✂️ Scissors choices  
+- 🤖 Computer generates random moves  
+- 🧮 Real-time score tracking  
+- 🎨 Clean and responsive user interface  
+- 💬 Dynamic win/lose/draw messages  
 
-# Open the folder
-cd Rock-Paper-Scissors-Game
+---
 
-# Run the project
-Open index.html in your browser
+## 🛠️ Tech Stack
+- **HTML** – Structure of the game  
+- **CSS** – Styling and layout  
+- **JavaScript** – Game logic and interactivity  
+
+---
+
+## 📂 Project Structure
